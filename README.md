@@ -37,7 +37,7 @@ The list:
 
 ## Contributing
 
-Feel free to contribute, I really need your help. Both pull requests and Telegram message contributions are accepted.
+Please, feel free to contribute, I really need your help. Both pull requests and Telegram message contributions are accepted.
 Text me on [Telegram](https://t.me/aurum_experience)
 
 ## Credits
