@@ -1,4 +1,4 @@
-# Masters-And-PHD-for-Kazakhstanis
+# Masters And PHD for Kazakhstanis
 A list of university degrees that provide full MS or PHD scholarhips for Kazakhstani citizens with a Computer Science or related Bachelors degree.
 Use the Ctrl + F hotkey to search by keywords.
 
