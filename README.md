@@ -10,8 +10,8 @@ The list:
 ### Kazakhstan
 | Major     | University name          | Location | MS or PHD | Duration  | Application Deadline   | Notes & Requierements | THE ranking |
 | ---------------- | ------------------- | ---------------- | --- | ---------------------------------------------------- | ---------- | --------- | ------- |
-[Business analytics & Big Data](https://farabi.university/programs/1743) | Al-Farabi KAZNU | Astana | Masters | 2 years | TBA | TBA | 801-1000 |
-[Computational Linguistics](https://farabi.university/programs/1746) | Al-Farabi KAZNU | Astana | Masters | 2 years | TBA | TBA | 801-1000 |
+[Business analytics & Big Data](https://farabi.university/programs/1743) | Al-Farabi KAZNU | Almaty | Masters | 2 years | TBA | TBA | 801-1000 |
+[Computational Linguistics](https://farabi.university/programs/1746) | Al-Farabi KAZNU | Almaty | Masters | 2 years | TBA | TBA | 801-1000 |
 [Computer Engineering](https://farabi.university/programs/1748) | Al-Farabi KAZNU | Almaty | Masters | 2 years | TBA | TBA | 801-1000 |
 [Computer Science](https://farabi.university/programs/1750) | Al-Farabi KAZNU | Almaty | Masters | 2 years | TBA | TBA | 801-1000 |
 [Computer Science](https://farabi.university/programs/2165) | Al-Farabi KAZNU | Almaty | Masters | 2 years | TBA | TBA | 801-1000 |
